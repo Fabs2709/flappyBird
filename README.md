@@ -3,7 +3,7 @@
 Um pequeno jogo executado no browser, utilizando HTML, CSS e JavaScript. 
 
 - Controles:
-  - Apertar qualquer botão faz o passaro ir para cima, sendo que ele só para de o fazer quando o botão deixar de ser pressionado.
+  - Apertar qualquer botão do teclado faz o passaro ir para cima, sendo que ele só para de o fazer quando o botão deixar de ser pressionado.
   - Ao perder é necessário recarregar a página para que o jogo reinicie.
 
 - Sobre o jogo
