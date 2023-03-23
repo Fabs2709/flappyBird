@@ -1,4 +1,4 @@
-# flappyBird
+# flappy-Bird
 
 Um pequeno jogo executado no browser, utilizando HTML, CSS e JavaScript. 
 
